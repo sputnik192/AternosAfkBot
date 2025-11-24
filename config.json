@@ -3,8 +3,9 @@
 	"port": 64645,
 	"name": "lifestealSMP",
 	"auto-night-skip":"false",
-	"login-enabled":"true",
+	"login-enabled":"false",
 	"register-cmd":"/register MR_MR121 MR_MR121",
 	"login-cmd":"/login MR_MR121"
 
 }
+
